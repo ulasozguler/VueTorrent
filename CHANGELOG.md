@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.15.4](https://www.github.com/WDaan/VueTorrent/compare/v0.15.3...v0.15.4) (2022-03-04)
+
+
+### Improvements
+
+* add Spanish Language ([#385](https://www.github.com/WDaan/VueTorrent/issues/385)) ([d0f7055](https://www.github.com/WDaan/VueTorrent/commit/d0f7055148b6e88bb00c1c8cd58ec1fa123488e9))
+
 ### [0.15.3](https://www.github.com/WDaan/VueTorrent/compare/v0.15.2...v0.15.3) (2022-02-28)
 
 
